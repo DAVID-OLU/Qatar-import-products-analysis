@@ -85,8 +85,11 @@ Supply chain operations
 
 ## 🛠 Tools & Technologies
 Power BI → dashboard & data visualization
+
 Data Modeling → structuring relationships
+
 Python & Jupyter notebook → Data cleaning and preparation using Python
+
 Excel/CSV → data source
 
 
