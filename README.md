@@ -89,3 +89,13 @@ Data Modeling → structuring relationships
 Python & Jupyter notebook → Data cleaning and preparation using Python
 Excel/CSV → data source
 
+
+
+
+
+
+
+
+
+
+
