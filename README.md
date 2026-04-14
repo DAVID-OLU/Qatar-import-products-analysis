@@ -4,6 +4,9 @@ Qatar Imports Analysis Dashboard: Trade Trends &amp; Product Insights
 🎯 Objective
 To analyze Qatar’s import data and uncover key insights about top trading partners, product demand, and import trends over time, using interactive dashboards.
 
+## Dashboard Preview
+<img src="/Qatar import screenshot.png" alt="Description of image">
+
 ## 📁 Dataset
 Download Dashboard and files here:
 (https://drive.google.com/drive/folders/1teZZFO9z_s5GjrwhQJrH22MORT2ECjvI?usp=drive_link)
